@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="breeds_header">Found %d breeds</string>
+    <string name="error_message">Error: %s</string>
+    <string name="sub_breeds_header">Sub-breeds:</string>
+</resources>
